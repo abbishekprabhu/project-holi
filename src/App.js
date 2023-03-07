@@ -22,9 +22,7 @@ function App() {
         </div>
       </section>
       <section className='boxed-up two'>
-      <FadeInOnScroll>
         <p className='contest'>Contest</p>
-        </FadeInOnScroll>
         <div className='points'>
           <FadeInOnScroll>
           <p>Step 1 : - Open App</p>
