@@ -56,7 +56,7 @@ function App() {
         </section>
       </div>
       <footer>
-        <p>Copyrights © 2023.Holi</p>
+        <p>Designed & Built by Abbishek</p>
       </footer>
     </div>
   );
